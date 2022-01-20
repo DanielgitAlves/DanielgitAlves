@@ -1,4 +1,4 @@
-## Olá eu sou o DanielgitAlve 🧑🏻
+## Olá eu sou o DanielgitAlves 🧑🏻
  É um prazer ver você aqui 
 
 - 🔭 Me encontro a procura de um estágio para aprender e me desenvolver
