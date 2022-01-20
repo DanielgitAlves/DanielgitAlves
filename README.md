@@ -2,7 +2,7 @@
  É um prazer ver você aqui 
 
 - 🔭 Me encontro a procura de um estágio para aprender e me desenvolver
-- 🌱 Estudo Javascript Html css, Estudo também SQL inject entre outros
+- 🌱 Estudo Javascript, Html, css, SQL inject, entre outros
 - 🌟 Sonho em criar algo bom para a humanidade.
 - 📫 Contate-me no e-mail: daniel.alves30@outlook.com
 - 😄 Pronouns: Ele/dele
