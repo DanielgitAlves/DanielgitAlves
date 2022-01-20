@@ -1,16 +1,24 @@
-### Hi there 👋
+## Olá eu sou o DanielgitAlve 🧑🏻
+ É um prazer ver você aqui 
 
-<!--
-**DanielgitAlves/DanielgitAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Me encontro a procura de um estágio para aprender e me desenvolver
+- 🌱 Estudo Javascript Html css, Estudo também SQL inject entre outros
+- 🌟 Sonho em criar algo bom para a humanidade.
+- 📫 Contate-me no e-mail: daniel.alves30@outlook.com
+- 😄 Pronouns: Ele/dele
+- 🚀 Objetivo atual é decolar no aprendizado e profissão 
+<div align="center">
+  <a href="https://github.com/DanielgitAlves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielgitAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielgitAlves&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <div> 
+  
+  <a href="https://www.instagram.com/daniel_alves_sou/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-Here are some ideas to get you started:
+  <a href="https://www.linkedin.com/in/daniel-2725/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
